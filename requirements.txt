@@ -1,0 +1,7 @@
+numpy
+pillow
+rembg[cpu]
+# 只有 --mode seg 要下面三个
+torch
+torchvision
+transformers
